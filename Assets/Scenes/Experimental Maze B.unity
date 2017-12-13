@@ -6812,6 +6812,7 @@ MonoBehaviour:
   - {fileID: 1820423932}
   - {fileID: 108255966}
   pauseDuration: 8
+  rotationDuration: 30
   introImgs:
   - {fileID: 21300000, guid: 66986c3dd3027c0448fd42f5946b0b5d, type: 3}
   - {fileID: 21300000, guid: 097c350300461d440869595e64fe1c85, type: 3}
@@ -8624,12 +8625,12 @@ Prefab:
     - target: {fileID: 224815412259432562, guid: eaae4ce4b70863042b87c49e657e1ae3,
         type: 2}
       propertyPath: m_LocalPosition.x
-      value: 446
+      value: 448
       objectReference: {fileID: 0}
     - target: {fileID: 224815412259432562, guid: eaae4ce4b70863042b87c49e657e1ae3,
         type: 2}
       propertyPath: m_LocalPosition.y
-      value: 389.5
+      value: 404
       objectReference: {fileID: 0}
     - target: {fileID: 224815412259432562, guid: eaae4ce4b70863042b87c49e657e1ae3,
         type: 2}

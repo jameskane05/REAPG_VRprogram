@@ -205,7 +205,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4895340133275894, guid: edbb6c2e76f18274cbd75ed1f2e6e57d, type: 2}
       propertyPath: m_RootOrder
-      value: 3
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: edbb6c2e76f18274cbd75ed1f2e6e57d, type: 2}
@@ -1137,12 +1137,12 @@ Prefab:
     - target: {fileID: 224815412259432562, guid: eaae4ce4b70863042b87c49e657e1ae3,
         type: 2}
       propertyPath: m_LocalPosition.x
-      value: 549
+      value: 448
       objectReference: {fileID: 0}
     - target: {fileID: 224815412259432562, guid: eaae4ce4b70863042b87c49e657e1ae3,
         type: 2}
       propertyPath: m_LocalPosition.y
-      value: 474.5
+      value: 404
       objectReference: {fileID: 0}
     - target: {fileID: 224815412259432562, guid: eaae4ce4b70863042b87c49e657e1ae3,
         type: 2}
@@ -1172,7 +1172,7 @@ Prefab:
     - target: {fileID: 224815412259432562, guid: eaae4ce4b70863042b87c49e657e1ae3,
         type: 2}
       propertyPath: m_RootOrder
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 224815412259432562, guid: eaae4ce4b70863042b87c49e657e1ae3,
         type: 2}
@@ -2080,6 +2080,7 @@ MonoBehaviour:
   hasStarted: 0
   Rotations: []
   pauseDuration: 8
+  rotationDuration: 30
   introImgs: []
   landmarks: []
 --- !u!114 &1779902723
@@ -2125,7 +2126,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1821037820
 Prefab:

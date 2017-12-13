@@ -24,7 +24,8 @@ public class MazeCtrl : MonoBehaviour {
     static bool rotateThreeSixty = false;
     static bool checkForFinishedRot = false;
     public Transform[] Rotations;
-    public int pauseDuration = 8;
+	public int pauseDuration;
+	public float rotationDuration;
     static Scene scene;
 
     static bool cornerActive;
@@ -245,7 +246,7 @@ public class MazeCtrl : MonoBehaviour {
     public void RotateThreeSixty()
     {
         controller.enabled = false;
-        subjectInstance.transform.RotateAround(subjectInstance.transform.position, Vector3.up, 360 * Time.smoothDeltaTime / 30.0f);
+		subjectInstance.transform.RotateAround(subjectInstance.transform.position, Vector3.up, 360 * Time.smoothDeltaTime / rotationDuration);
 
         if (Mathf.RoundToInt(Mathf.Abs(subjectInstance.transform.rotation.eulerAngles.y - Rotations[onCorner].rotation.eulerAngles.y)) > 5f)
         {

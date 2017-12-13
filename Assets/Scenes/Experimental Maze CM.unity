@@ -871,12 +871,12 @@ Prefab:
     - target: {fileID: 224815412259432562, guid: eaae4ce4b70863042b87c49e657e1ae3,
         type: 2}
       propertyPath: m_LocalPosition.x
-      value: 446
+      value: 448
       objectReference: {fileID: 0}
     - target: {fileID: 224815412259432562, guid: eaae4ce4b70863042b87c49e657e1ae3,
         type: 2}
       propertyPath: m_LocalPosition.y
-      value: 389.5
+      value: 404
       objectReference: {fileID: 0}
     - target: {fileID: 224815412259432562, guid: eaae4ce4b70863042b87c49e657e1ae3,
         type: 2}
@@ -6021,6 +6021,7 @@ MonoBehaviour:
   hasStarted: 0
   Rotations: []
   pauseDuration: 8
+  rotationDuration: 30
   introImgs: []
   landmarks: []
 --- !u!4 &1401796196
