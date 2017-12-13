@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: fbfc061e4bc1eb247901e98e996e30b9
+timeCreated: 1511895600
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Cam target
+    100002: Extrude NURBS
+    100004: fill_Light
+    100006: fill_Light.2
+    100008: fill_Light.3
+    100010: Light
+    100012: Light.Target
+    100014: Product_Stage
+    100016: sky
+    100018: Studio Camera
+    100020: Water Bottle
+    100022: Water Cooler
+    100024: //RootNode
+    400000: Cam target
+    400002: Extrude NURBS
+    400004: fill_Light
+    400006: fill_Light.2
+    400008: fill_Light.3
+    400010: Light
+    400012: Light.Target
+    400014: Product_Stage
+    400016: sky
+    400018: Studio Camera
+    400020: Water Bottle
+    400022: Water Cooler
+    400024: //RootNode
+    2000000: Studio Camera
+    2300000: Extrude NURBS
+    2300002: sky
+    2300004: Water Bottle
+    2300006: Water Cooler
+    3300000: Extrude NURBS
+    3300002: sky
+    3300004: Water Bottle
+    3300006: Water Cooler
+    4300000: Water Cooler
+    4300002: Water Bottle
+    4300004: sky
+    4300006: Extrude NURBS
+    7400000: C4D Animation Take
+    9500000: //RootNode
+    10800000: fill_Light
+    10800002: fill_Light.2
+    10800004: fill_Light.3
+    10800006: Light
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat
+    second: {fileID: 2100000, guid: b8c6081414aacd04b97b137b0e02d1c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat.1
+    second: {fileID: 2100000, guid: 28fa45ec70eca024a9aa70113a1657de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water Cooler Bottle
+    second: {fileID: 2100000, guid: 2bf3d5664ca27114f9ccfdc78d0f49b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: water_cooler
+    second: {fileID: 2100000, guid: ef5b2449bae2e67468376bcf5007cb16, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

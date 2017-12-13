@@ -1,0 +1,257 @@
+fileFormatVersion: 2
+guid: dcdc30af4660cb146bab818223af8fa0
+timeCreated: 18446744011573954816
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: StellLadder A
+    100004: StellLadder B
+    100006: StellLadder C
+    100008: StellLadder D
+    100010: StellLadder Damaged A
+    100012: StellLadder Damaged B
+    100014: StellLadder Damaged C
+    100016: StellLadder Damaged D
+    100018: StellLadder Damaged E
+    100020: StellLadder Damaged H
+    100022: StellLadder Damaged I
+    100024: StellLadder Damaged J
+    100026: StellLadder Damaged K
+    100028: StellLadder Damaged LP A
+    100030: StellLadder Damaged LP B
+    100032: StellLadder Damaged LP C
+    100034: StellLadder Damaged LP D
+    100036: StellLadder Damaged LP E
+    100038: StellLadder Damaged LP F
+    100040: StellLadder Damaged LP G
+    100042: StellLadder Damaged LP H
+    100044: StellLadder Damaged LP I
+    100046: StellLadder Damaged LP J
+    100048: StellLadder Damaged LP K
+    100050: StellLadder E
+    100052: StellLadder LP A
+    100054: StellLadder LP B
+    100056: StellLadder LP C
+    100058: StellLadder LP D
+    100060: StellLadder LP E
+    100062: StellLadder_D F
+    100064: StellLadder_D G
+    100066: StellLadder Damaged F
+    100068: StellLadder Damaged G
+    400000: //RootNode
+    400002: StellLadder A
+    400004: StellLadder B
+    400006: StellLadder C
+    400008: StellLadder D
+    400010: StellLadder Damaged A
+    400012: StellLadder Damaged B
+    400014: StellLadder Damaged C
+    400016: StellLadder Damaged D
+    400018: StellLadder Damaged E
+    400020: StellLadder Damaged H
+    400022: StellLadder Damaged I
+    400024: StellLadder Damaged J
+    400026: StellLadder Damaged K
+    400028: StellLadder Damaged LP A
+    400030: StellLadder Damaged LP B
+    400032: StellLadder Damaged LP C
+    400034: StellLadder Damaged LP D
+    400036: StellLadder Damaged LP E
+    400038: StellLadder Damaged LP F
+    400040: StellLadder Damaged LP G
+    400042: StellLadder Damaged LP H
+    400044: StellLadder Damaged LP I
+    400046: StellLadder Damaged LP J
+    400048: StellLadder Damaged LP K
+    400050: StellLadder E
+    400052: StellLadder LP A
+    400054: StellLadder LP B
+    400056: StellLadder LP C
+    400058: StellLadder LP D
+    400060: StellLadder LP E
+    400062: StellLadder_D F
+    400064: StellLadder_D G
+    400066: StellLadder Damaged F
+    400068: StellLadder Damaged G
+    2300000: StellLadder A
+    2300002: StellLadder B
+    2300004: StellLadder C
+    2300006: StellLadder D
+    2300008: StellLadder Damaged A
+    2300010: StellLadder Damaged B
+    2300012: StellLadder Damaged C
+    2300014: StellLadder Damaged D
+    2300016: StellLadder Damaged E
+    2300018: StellLadder Damaged H
+    2300020: StellLadder Damaged I
+    2300022: StellLadder Damaged J
+    2300024: StellLadder Damaged K
+    2300026: StellLadder Damaged LP A
+    2300028: StellLadder Damaged LP B
+    2300030: StellLadder Damaged LP C
+    2300032: StellLadder Damaged LP D
+    2300034: StellLadder Damaged LP E
+    2300036: StellLadder Damaged LP F
+    2300038: StellLadder Damaged LP G
+    2300040: StellLadder Damaged LP H
+    2300042: StellLadder Damaged LP I
+    2300044: StellLadder Damaged LP J
+    2300046: StellLadder Damaged LP K
+    2300048: StellLadder E
+    2300050: StellLadder LP A
+    2300052: StellLadder LP B
+    2300054: StellLadder LP C
+    2300056: StellLadder LP D
+    2300058: StellLadder LP E
+    2300060: StellLadder_D F
+    2300062: StellLadder_D G
+    2300064: StellLadder Damaged F
+    2300066: StellLadder Damaged G
+    3300000: StellLadder A
+    3300002: StellLadder B
+    3300004: StellLadder C
+    3300006: StellLadder D
+    3300008: StellLadder Damaged A
+    3300010: StellLadder Damaged B
+    3300012: StellLadder Damaged C
+    3300014: StellLadder Damaged D
+    3300016: StellLadder Damaged E
+    3300018: StellLadder Damaged H
+    3300020: StellLadder Damaged I
+    3300022: StellLadder Damaged J
+    3300024: StellLadder Damaged K
+    3300026: StellLadder Damaged LP A
+    3300028: StellLadder Damaged LP B
+    3300030: StellLadder Damaged LP C
+    3300032: StellLadder Damaged LP D
+    3300034: StellLadder Damaged LP E
+    3300036: StellLadder Damaged LP F
+    3300038: StellLadder Damaged LP G
+    3300040: StellLadder Damaged LP H
+    3300042: StellLadder Damaged LP I
+    3300044: StellLadder Damaged LP J
+    3300046: StellLadder Damaged LP K
+    3300048: StellLadder E
+    3300050: StellLadder LP A
+    3300052: StellLadder LP B
+    3300054: StellLadder LP C
+    3300056: StellLadder LP D
+    3300058: StellLadder LP E
+    3300060: StellLadder_D F
+    3300062: StellLadder_D G
+    3300064: StellLadder Damaged F
+    3300066: StellLadder Damaged G
+    4300000: StellLadder B
+    4300002: StellLadder A
+    4300004: StellLadder C
+    4300006: StellLadder D
+    4300008: StellLadder_D G
+    4300010: StellLadder E
+    4300012: StellLadder Damaged H
+    4300014: StellLadder Damaged I
+    4300016: StellLadder Damaged D
+    4300018: StellLadder Damaged E
+    4300020: StellLadder_D F
+    4300022: StellLadder Damaged LP H
+    4300024: StellLadder Damaged LP F
+    4300026: StellLadder Damaged LP E
+    4300028: StellLadder Damaged K
+    4300030: StellLadder Damaged J
+    4300032: StellLadder LP B
+    4300034: StellLadder LP A
+    4300036: StellLadder LP C
+    4300038: StellLadder LP D
+    4300040: StellLadder LP E
+    4300042: StellLadder Damaged LP D
+    4300044: StellLadder Damaged LP K
+    4300046: StellLadder Damaged LP J
+    4300048: StellLadder Damaged LP A
+    4300050: StellLadder Damaged LP B
+    4300052: StellLadder Damaged LP G
+    4300054: StellLadder Damaged LP C
+    4300056: StellLadder Damaged LP I
+    4300058: StellLadder Damaged C
+    4300060: StellLadder Damaged B
+    4300062: StellLadder Damaged A
+    4300064: StellLadder Damaged G
+    4300066: StellLadder Damaged F
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,687 @@
+fileFormatVersion: 2
+guid: 3881fe80feb2589429154fee2aa5fcc2
+timeCreated: 1510436461
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Box01
+    100004: Box02
+    100006: Box03
+    100008: Box04
+    100010: Box39
+    100012: Box40
+    100014: Box41
+    100016: Box44
+    100018: Box45
+    100020: Box46
+    100022: Box47
+    100024: Box48
+    100026: Box49
+    100028: Box50
+    100030: Box53
+    100032: Box54
+    100034: Box55
+    100036: Box56
+    100038: Box57
+    100040: Box58
+    100042: Box59
+    100044: Box60
+    100046: Box61
+    100048: Box62
+    100050: Box63
+    100052: Box64
+    100054: Box65
+    100056: Box66
+    100058: Box67
+    100060: ChamferCyl04
+    100062: ChamferCyl05
+    100064: ChamferCyl06
+    100066: ChamferCyl07
+    100068: Circle01
+    100070: Circle02
+    100072: GeoSphere02
+    100074: GeoSphere03
+    100076: GeoSphere04
+    100078: GeoSphere05
+    100080: GeoSphere06
+    100082: GeoSphere07
+    100084: Line01
+    100086: Line02
+    100088: Line03
+    100090: Line04
+    100092: Line05
+    100094: Line06
+    100096: Line07
+    100098: Line08
+    100100: Line09
+    100102: Rectangle01
+    100104: Rectangle02
+    100106: Rectangle03
+    100108: Rectangle04
+    100110: Rectangle05
+    100112: sd
+    100114: Shape03
+    100116: Shape04
+    100118: Shape05
+    100120: Shape06
+    400000: //RootNode
+    400002: Box01
+    400004: Box02
+    400006: Box03
+    400008: Box04
+    400010: Box39
+    400012: Box40
+    400014: Box41
+    400016: Box44
+    400018: Box45
+    400020: Box46
+    400022: Box47
+    400024: Box48
+    400026: Box49
+    400028: Box50
+    400030: Box53
+    400032: Box54
+    400034: Box55
+    400036: Box56
+    400038: Box57
+    400040: Box58
+    400042: Box59
+    400044: Box60
+    400046: Box61
+    400048: Box62
+    400050: Box63
+    400052: Box64
+    400054: Box65
+    400056: Box66
+    400058: Box67
+    400060: ChamferCyl04
+    400062: ChamferCyl05
+    400064: ChamferCyl06
+    400066: ChamferCyl07
+    400068: Circle01
+    400070: Circle02
+    400072: GeoSphere02
+    400074: GeoSphere03
+    400076: GeoSphere04
+    400078: GeoSphere05
+    400080: GeoSphere06
+    400082: GeoSphere07
+    400084: Line01
+    400086: Line02
+    400088: Line03
+    400090: Line04
+    400092: Line05
+    400094: Line06
+    400096: Line07
+    400098: Line08
+    400100: Line09
+    400102: Rectangle01
+    400104: Rectangle02
+    400106: Rectangle03
+    400108: Rectangle04
+    400110: Rectangle05
+    400112: sd
+    400114: Shape03
+    400116: Shape04
+    400118: Shape05
+    400120: Shape06
+    2300000: Box01
+    2300002: Box02
+    2300004: Box03
+    2300006: Box04
+    2300008: Box39
+    2300010: Box40
+    2300012: Box41
+    2300014: Box44
+    2300016: Box45
+    2300018: Box46
+    2300020: Box47
+    2300022: Box48
+    2300024: Box49
+    2300026: Box50
+    2300028: Box53
+    2300030: Box54
+    2300032: Box55
+    2300034: Box56
+    2300036: Box57
+    2300038: Box58
+    2300040: Box59
+    2300042: Box60
+    2300044: Box61
+    2300046: Box62
+    2300048: Box63
+    2300050: Box64
+    2300052: Box65
+    2300054: Box66
+    2300056: Box67
+    2300058: ChamferCyl04
+    2300060: ChamferCyl05
+    2300062: ChamferCyl06
+    2300064: ChamferCyl07
+    2300066: Circle01
+    2300068: Circle02
+    2300070: GeoSphere02
+    2300072: GeoSphere03
+    2300074: GeoSphere04
+    2300076: GeoSphere05
+    2300078: GeoSphere06
+    2300080: GeoSphere07
+    2300082: Line01
+    2300084: Line02
+    2300086: Line03
+    2300088: Line04
+    2300090: Line05
+    2300092: Line06
+    2300094: Line07
+    2300096: Line08
+    2300098: Line09
+    2300100: Rectangle01
+    2300102: Rectangle02
+    2300104: Rectangle03
+    2300106: Rectangle04
+    2300108: Rectangle05
+    2300110: sd
+    2300112: Shape03
+    2300114: Shape04
+    2300116: Shape05
+    2300118: Shape06
+    3300000: Box01
+    3300002: Box02
+    3300004: Box03
+    3300006: Box04
+    3300008: Box39
+    3300010: Box40
+    3300012: Box41
+    3300014: Box44
+    3300016: Box45
+    3300018: Box46
+    3300020: Box47
+    3300022: Box48
+    3300024: Box49
+    3300026: Box50
+    3300028: Box53
+    3300030: Box54
+    3300032: Box55
+    3300034: Box56
+    3300036: Box57
+    3300038: Box58
+    3300040: Box59
+    3300042: Box60
+    3300044: Box61
+    3300046: Box62
+    3300048: Box63
+    3300050: Box64
+    3300052: Box65
+    3300054: Box66
+    3300056: Box67
+    3300058: ChamferCyl04
+    3300060: ChamferCyl05
+    3300062: ChamferCyl06
+    3300064: ChamferCyl07
+    3300066: Circle01
+    3300068: Circle02
+    3300070: GeoSphere02
+    3300072: GeoSphere03
+    3300074: GeoSphere04
+    3300076: GeoSphere05
+    3300078: GeoSphere06
+    3300080: GeoSphere07
+    3300082: Line01
+    3300084: Line02
+    3300086: Line03
+    3300088: Line04
+    3300090: Line05
+    3300092: Line06
+    3300094: Line07
+    3300096: Line08
+    3300098: Line09
+    3300100: Rectangle01
+    3300102: Rectangle02
+    3300104: Rectangle03
+    3300106: Rectangle04
+    3300108: Rectangle05
+    3300110: sd
+    3300112: Shape03
+    3300114: Shape04
+    3300116: Shape05
+    3300118: Shape06
+    4300000: Box01
+    4300002: Box02
+    4300004: Box03
+    4300006: Box04
+    4300008: Box39
+    4300010: Box40
+    4300012: Box41
+    4300014: Box44
+    4300016: Box45
+    4300018: Box46
+    4300020: Box47
+    4300022: Box48
+    4300024: Box49
+    4300026: Box50
+    4300028: Box53
+    4300030: Box54
+    4300032: Box55
+    4300034: Box56
+    4300036: Box57
+    4300038: Box58
+    4300040: Box59
+    4300042: Box60
+    4300044: Box61
+    4300046: Box62
+    4300048: Box63
+    4300050: Box64
+    4300052: Box65
+    4300054: Box66
+    4300056: Box67
+    4300058: ChamferCyl04
+    4300060: ChamferCyl05
+    4300062: ChamferCyl06
+    4300064: ChamferCyl07
+    4300066: Circle01
+    4300068: Circle02
+    4300070: GeoSphere02
+    4300072: GeoSphere03
+    4300074: GeoSphere04
+    4300076: GeoSphere05
+    4300078: GeoSphere06
+    4300080: GeoSphere07
+    4300082: Line01
+    4300084: Line02
+    4300086: Line03
+    4300088: Line04
+    4300090: Line05
+    4300092: Line06
+    4300094: Line07
+    4300096: Line08
+    4300098: Line09
+    4300100: Rectangle01
+    4300102: Rectangle02
+    4300104: Rectangle03
+    4300106: Rectangle04
+    4300108: Rectangle05
+    4300110: sd
+    4300112: Shape03
+    4300114: Shape04
+    4300116: Shape05
+    4300118: Shape06
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box01Mat
+    second: {fileID: 2100000, guid: 30e45330d56f03344ba432cdd254eaca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box02Mat
+    second: {fileID: 2100000, guid: 99f3979fd11051b4eb7ab883309f3756, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box03Mat
+    second: {fileID: 2100000, guid: 1f7422807689ba74b81e3969f041facd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box04Mat
+    second: {fileID: 2100000, guid: dab1edcba57e35b45b10ec3244b2c23b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box39Mat
+    second: {fileID: 2100000, guid: 0a05ca155bc60754f991902514fa6331, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box40Mat
+    second: {fileID: 2100000, guid: e152b123011bd77428519ad88cda2ff0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box41Mat
+    second: {fileID: 2100000, guid: 0df969a9cca752b47b8f2dcbfd7e99dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box44Mat
+    second: {fileID: 2100000, guid: b916596490d8f154db88a930a11a7040, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box45Mat
+    second: {fileID: 2100000, guid: 499e8816a24a6d34c92b3a0398a944aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box46Mat
+    second: {fileID: 2100000, guid: a6cbd5917d9968b4195037a829c69849, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box47Mat
+    second: {fileID: 2100000, guid: 65033b6e279c2404e8939558e28d58f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box48Mat
+    second: {fileID: 2100000, guid: d987ecb351beb0c46b2af87001d5f1d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box49Mat
+    second: {fileID: 2100000, guid: 291f48c6fa1d9044db520e7d95e0d0ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box50Mat
+    second: {fileID: 2100000, guid: 3e6e24dbff397dc4db5161d519d389bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box53Mat
+    second: {fileID: 2100000, guid: 9de5db1b85ba38945bb8b69f5df96e30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box54Mat
+    second: {fileID: 2100000, guid: 323c3a39f3e838149a006cbb1f172f91, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box55Mat
+    second: {fileID: 2100000, guid: 90088f46a25267c449665ee3a68c5b54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box56Mat
+    second: {fileID: 2100000, guid: 45d954617dee80a4c9433425490b7840, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box57Mat
+    second: {fileID: 2100000, guid: cbd2b4cd743d017418e662f281cca516, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box58Mat
+    second: {fileID: 2100000, guid: a7bb022a4a03f7b4390cfc579be8c8ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box59Mat
+    second: {fileID: 2100000, guid: ec0fa20b6b6865642a32dec23d5a7d15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box60Mat
+    second: {fileID: 2100000, guid: c73e6ea12bd772747a2c3270bcfb0ec6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box61Mat
+    second: {fileID: 2100000, guid: 15b513be8008cb34881487a71bba5b2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box62Mat
+    second: {fileID: 2100000, guid: f308928280ff6ec408b54fffbab83f95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box63Mat
+    second: {fileID: 2100000, guid: 09981d1603a87e54ca347b7400132abb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box64Mat
+    second: {fileID: 2100000, guid: 081c16b14ba047543a7d533a6883fbde, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box65Mat
+    second: {fileID: 2100000, guid: e162cd43c94649549903b2e374ae16c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box66Mat
+    second: {fileID: 2100000, guid: c62cfe718ecf0254c963e8cf193da13f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box67Mat
+    second: {fileID: 2100000, guid: 5d401ab45ba40cb408f0cefe4c4f386f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChamferCyl04Mat
+    second: {fileID: 2100000, guid: 753aace2dc726b343a4721e66b77c875, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChamferCyl05Mat
+    second: {fileID: 2100000, guid: ced73910be3c963409da3cbc76a6cc29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChamferCyl06Mat
+    second: {fileID: 2100000, guid: 19718664b657942429e86e0348ade747, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChamferCyl07Mat
+    second: {fileID: 2100000, guid: 9771d298f58587d4daebd0ec77279470, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Circle01Mat
+    second: {fileID: 2100000, guid: 16d23381dbabafc49b8eb85615a4cc44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Circle02Mat
+    second: {fileID: 2100000, guid: 0b4b46594cd5342478b38b76922520e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GeoSphere02Mat
+    second: {fileID: 2100000, guid: d9d64170dd06fa943b52eb3ff20f7913, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GeoSphere03Mat
+    second: {fileID: 2100000, guid: 34cbd356e70ab344a9eda010810d8121, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GeoSphere04Mat
+    second: {fileID: 2100000, guid: c777ea71e575af04ba8c39b28b5caa7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GeoSphere05Mat
+    second: {fileID: 2100000, guid: 24f34a24e82a99949a683348a6e19272, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GeoSphere06Mat
+    second: {fileID: 2100000, guid: 5fb41feb1338231449ec00bdacabd0f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GeoSphere07Mat
+    second: {fileID: 2100000, guid: 5f12399ee0804c845a1ad222387d9a7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Line01Mat
+    second: {fileID: 2100000, guid: 73b2b639eba66e043bfe6bd4503abe66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Line02Mat
+    second: {fileID: 2100000, guid: 40e33c351b30de24195b0f92583a6ba4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Line03Mat
+    second: {fileID: 2100000, guid: 3b01b17a209fdb843a5be6c8a16419e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Line04Mat
+    second: {fileID: 2100000, guid: 6d41186923abbc34ba87db481eeda225, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Line05Mat
+    second: {fileID: 2100000, guid: a93f577eb9101b245a1034b2813f809f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Line06Mat
+    second: {fileID: 2100000, guid: 6bfb07da2f07b0e4aa174d4a53d5b721, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Line07Mat
+    second: {fileID: 2100000, guid: e010a8c89214d984cb54f11b9a9105f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Line08Mat
+    second: {fileID: 2100000, guid: 234a9c08a15ef3143830570fe3329793, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Line09Mat
+    second: {fileID: 2100000, guid: 8d7d0dd3d411f6f4aafda9f4ce90c36f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rectangle01Mat
+    second: {fileID: 2100000, guid: 3d8e90bf6455a3f4289fe2d69c468128, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rectangle02Mat
+    second: {fileID: 2100000, guid: 9f5c891eac7f58c4780d0a5bdc6371b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rectangle03Mat
+    second: {fileID: 2100000, guid: 991d351123c80a645963fbbcc2326c0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rectangle04Mat
+    second: {fileID: 2100000, guid: 4eca22f2176563c439d98a09f86c14c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rectangle05Mat
+    second: {fileID: 2100000, guid: baa063660afa0174096e1d74b6d7901e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shape03Mat
+    second: {fileID: 2100000, guid: d12cd58301d01b148bfde1c1cc6dcb70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shape04Mat
+    second: {fileID: 2100000, guid: 639692f41bafe04418b504b05917fcf8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shape05Mat
+    second: {fileID: 2100000, guid: 485964bd5882ddb4c929bb62911e043e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shape06Mat
+    second: {fileID: 2100000, guid: cf1404f4f497fa44aae28dfae61b5601, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sdMat
+    second: {fileID: 2100000, guid: 0a221120374483f428df69c258715847, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

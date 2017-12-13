@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: 28cb28d94b3448841a44c878f205b646
+timeCreated: 1511889649
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: mirror
+    100002: Mirror 1
+    100004: mirror 1
+    100006: mirror 2
+    100008: mirror 3
+    100010: mirror 5
+    100012: mirror structure
+    100014: mirror structure 1
+    100016: //RootNode
+    400000: mirror
+    400002: Mirror 1
+    400004: mirror 1
+    400006: mirror 2
+    400008: mirror 3
+    400010: mirror 5
+    400012: mirror structure
+    400014: mirror structure 1
+    400016: //RootNode
+    2300000: mirror
+    2300002: Mirror 1
+    2300004: mirror 1
+    2300006: mirror 2
+    2300008: mirror 3
+    2300010: mirror 5
+    2300012: mirror structure
+    2300014: mirror structure 1
+    3300000: mirror
+    3300002: Mirror 1
+    3300004: mirror 1
+    3300006: mirror 2
+    3300008: mirror 3
+    3300010: mirror 5
+    3300012: mirror structure
+    3300014: mirror structure 1
+    4300000: Mirror 1
+    4300002: mirror 2
+    4300004: mirror 3
+    4300006: mirror structure
+    4300008: mirror
+    4300010: mirror 5
+    4300012: mirror
+    4300014: mirror structure
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #12'
+    second: {fileID: 2100000, guid: 43307d94857b9754bb434c1a45b9fc7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #44'
+    second: {fileID: 2100000, guid: 1116b1f3d6fbbbb49bdf9d6b9e56a3c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metallic 1
+    second: {fileID: 2100000, guid: ad69401f3de8f034a945d7e752626c69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mirror
+    second: {fileID: 2100000, guid: fe92c28c7dd0a3e4d9005dfde87228f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mirror 2
+    second: {fileID: 2100000, guid: fe92c28c7dd0a3e4d9005dfde87228f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mirror A
+    second: {fileID: 2100000, guid: 6af86d7b029f24c4b9004b57464e55f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mirror B
+    second: {fileID: 2100000, guid: 7cefba6f90739c14ea14f6328f304a16, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mirror wood
+    second: {fileID: 2100000, guid: 1d706166c0c89a443a0e53a14fbfe15d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,662 @@
+fileFormatVersion: 2
+guid: a277a6da76139ab4292fc2dac147d71d
+timeCreated: 1512145005
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: gamba 1
+    100004: gamba 1.2
+    100006: gamba 1.3
+    100008: gamba 1.4
+    100010: gamba 2
+    100012: gamba 2.2
+    100014: gamba 2.3
+    100016: gamba 2.4
+    100018: gamba 3
+    100020: gamba 3.2
+    100022: gamba 3.3
+    100024: gamba 3.4
+    100026: piano
+    100028: piano.2
+    100030: piano.3
+    100032: piano.4
+    100034: piastra
+    100036: piastra 1
+    100038: piastra 1.2
+    100040: piastra 1.3
+    100042: piastra 1.4
+    100044: piastra 2
+    100046: piastra 2.2
+    100048: piastra 2.3
+    100050: piastra 2.4
+    100052: piastra 3
+    100054: piastra 3.2
+    100056: piastra 3.3
+    100058: piastra 3.4
+    100060: piastra 4
+    100062: piastra 4.2
+    100064: piastra 4.3
+    100066: piastra 4.4
+    100068: piastra 5
+    100070: piastra 5.2
+    100072: piastra 5.3
+    100074: piastra 5.4
+    100076: piastra.2
+    100078: piastra.3
+    100080: piastra.4
+    100082: tavolino Hexagon_Bijzettafel
+    100084: tavolino Hexagon_Bijzettafel.2
+    100086: tavolino Hexagon_Bijzettafel.3
+    100088: tavolino Hexagon_Bijzettafel.4
+    100090: testa vite
+    100092: testa vite.10
+    100094: testa vite.11
+    100096: testa vite.12
+    100098: testa vite.13
+    100100: testa vite.14
+    100102: testa vite.15
+    100104: testa vite.16
+    100106: testa vite.17
+    100108: testa vite.18
+    100110: testa vite.19
+    100112: testa vite.2
+    100114: testa vite.20
+    100116: testa vite.21
+    100118: testa vite.22
+    100120: testa vite.23
+    100122: testa vite.24
+    100124: testa vite.25
+    100126: testa vite.26
+    100128: testa vite.27
+    100130: testa vite.28
+    100132: testa vite.29
+    100134: testa vite.3
+    100136: testa vite.30
+    100138: testa vite.31
+    100140: testa vite.32
+    100142: testa vite.33
+    100144: testa vite.34
+    100146: testa vite.35
+    100148: testa vite.36
+    100150: testa vite.37
+    100152: testa vite.38
+    100154: testa vite.39
+    100156: testa vite.4
+    100158: testa vite.40
+    100160: testa vite.41
+    100162: testa vite.42
+    100164: testa vite.43
+    100166: testa vite.44
+    100168: testa vite.45
+    100170: testa vite.46
+    100172: testa vite.47
+    100174: testa vite.48
+    100176: testa vite.49
+    100178: testa vite.5
+    100180: testa vite.50
+    100182: testa vite.51
+    100184: testa vite.52
+    100186: testa vite.53
+    100188: testa vite.54
+    100190: testa vite.55
+    100192: testa vite.56
+    100194: testa vite.57
+    100196: testa vite.58
+    100198: testa vite.59
+    100200: testa vite.6
+    100202: testa vite.60
+    100204: testa vite.61
+    100206: testa vite.62
+    100208: testa vite.63
+    100210: testa vite.64
+    100212: testa vite.65
+    100214: testa vite.66
+    100216: testa vite.67
+    100218: testa vite.68
+    100220: testa vite.69
+    100222: testa vite.7
+    100224: testa vite.70
+    100226: testa vite.71
+    100228: testa vite.72
+    100230: testa vite.8
+    100232: testa vite.9
+    400000: //RootNode
+    400002: gamba 1
+    400004: gamba 1.2
+    400006: gamba 1.3
+    400008: gamba 1.4
+    400010: gamba 2
+    400012: gamba 2.2
+    400014: gamba 2.3
+    400016: gamba 2.4
+    400018: gamba 3
+    400020: gamba 3.2
+    400022: gamba 3.3
+    400024: gamba 3.4
+    400026: piano
+    400028: piano.2
+    400030: piano.3
+    400032: piano.4
+    400034: piastra
+    400036: piastra 1
+    400038: piastra 1.2
+    400040: piastra 1.3
+    400042: piastra 1.4
+    400044: piastra 2
+    400046: piastra 2.2
+    400048: piastra 2.3
+    400050: piastra 2.4
+    400052: piastra 3
+    400054: piastra 3.2
+    400056: piastra 3.3
+    400058: piastra 3.4
+    400060: piastra 4
+    400062: piastra 4.2
+    400064: piastra 4.3
+    400066: piastra 4.4
+    400068: piastra 5
+    400070: piastra 5.2
+    400072: piastra 5.3
+    400074: piastra 5.4
+    400076: piastra.2
+    400078: piastra.3
+    400080: piastra.4
+    400082: tavolino Hexagon_Bijzettafel
+    400084: tavolino Hexagon_Bijzettafel.2
+    400086: tavolino Hexagon_Bijzettafel.3
+    400088: tavolino Hexagon_Bijzettafel.4
+    400090: testa vite
+    400092: testa vite.10
+    400094: testa vite.11
+    400096: testa vite.12
+    400098: testa vite.13
+    400100: testa vite.14
+    400102: testa vite.15
+    400104: testa vite.16
+    400106: testa vite.17
+    400108: testa vite.18
+    400110: testa vite.19
+    400112: testa vite.2
+    400114: testa vite.20
+    400116: testa vite.21
+    400118: testa vite.22
+    400120: testa vite.23
+    400122: testa vite.24
+    400124: testa vite.25
+    400126: testa vite.26
+    400128: testa vite.27
+    400130: testa vite.28
+    400132: testa vite.29
+    400134: testa vite.3
+    400136: testa vite.30
+    400138: testa vite.31
+    400140: testa vite.32
+    400142: testa vite.33
+    400144: testa vite.34
+    400146: testa vite.35
+    400148: testa vite.36
+    400150: testa vite.37
+    400152: testa vite.38
+    400154: testa vite.39
+    400156: testa vite.4
+    400158: testa vite.40
+    400160: testa vite.41
+    400162: testa vite.42
+    400164: testa vite.43
+    400166: testa vite.44
+    400168: testa vite.45
+    400170: testa vite.46
+    400172: testa vite.47
+    400174: testa vite.48
+    400176: testa vite.49
+    400178: testa vite.5
+    400180: testa vite.50
+    400182: testa vite.51
+    400184: testa vite.52
+    400186: testa vite.53
+    400188: testa vite.54
+    400190: testa vite.55
+    400192: testa vite.56
+    400194: testa vite.57
+    400196: testa vite.58
+    400198: testa vite.59
+    400200: testa vite.6
+    400202: testa vite.60
+    400204: testa vite.61
+    400206: testa vite.62
+    400208: testa vite.63
+    400210: testa vite.64
+    400212: testa vite.65
+    400214: testa vite.66
+    400216: testa vite.67
+    400218: testa vite.68
+    400220: testa vite.69
+    400222: testa vite.7
+    400224: testa vite.70
+    400226: testa vite.71
+    400228: testa vite.72
+    400230: testa vite.8
+    400232: testa vite.9
+    2300000: gamba 1
+    2300002: gamba 1.2
+    2300004: gamba 1.3
+    2300006: gamba 1.4
+    2300008: gamba 2
+    2300010: gamba 2.2
+    2300012: gamba 2.3
+    2300014: gamba 2.4
+    2300016: gamba 3
+    2300018: gamba 3.2
+    2300020: gamba 3.3
+    2300022: gamba 3.4
+    2300024: piano
+    2300026: piano.2
+    2300028: piano.3
+    2300030: piano.4
+    2300032: piastra
+    2300034: piastra 1
+    2300036: piastra 1.2
+    2300038: piastra 1.3
+    2300040: piastra 1.4
+    2300042: piastra 2
+    2300044: piastra 2.2
+    2300046: piastra 2.3
+    2300048: piastra 2.4
+    2300050: piastra 3
+    2300052: piastra 3.2
+    2300054: piastra 3.3
+    2300056: piastra 3.4
+    2300058: piastra 4
+    2300060: piastra 4.2
+    2300062: piastra 4.3
+    2300064: piastra 4.4
+    2300066: piastra 5
+    2300068: piastra 5.2
+    2300070: piastra 5.3
+    2300072: piastra 5.4
+    2300074: piastra.2
+    2300076: piastra.3
+    2300078: piastra.4
+    2300080: testa vite
+    2300082: testa vite.10
+    2300084: testa vite.11
+    2300086: testa vite.12
+    2300088: testa vite.13
+    2300090: testa vite.14
+    2300092: testa vite.15
+    2300094: testa vite.16
+    2300096: testa vite.17
+    2300098: testa vite.18
+    2300100: testa vite.19
+    2300102: testa vite.2
+    2300104: testa vite.20
+    2300106: testa vite.21
+    2300108: testa vite.22
+    2300110: testa vite.23
+    2300112: testa vite.24
+    2300114: testa vite.25
+    2300116: testa vite.26
+    2300118: testa vite.27
+    2300120: testa vite.28
+    2300122: testa vite.29
+    2300124: testa vite.3
+    2300126: testa vite.30
+    2300128: testa vite.31
+    2300130: testa vite.32
+    2300132: testa vite.33
+    2300134: testa vite.34
+    2300136: testa vite.35
+    2300138: testa vite.36
+    2300140: testa vite.37
+    2300142: testa vite.38
+    2300144: testa vite.39
+    2300146: testa vite.4
+    2300148: testa vite.40
+    2300150: testa vite.41
+    2300152: testa vite.42
+    2300154: testa vite.43
+    2300156: testa vite.44
+    2300158: testa vite.45
+    2300160: testa vite.46
+    2300162: testa vite.47
+    2300164: testa vite.48
+    2300166: testa vite.49
+    2300168: testa vite.5
+    2300170: testa vite.50
+    2300172: testa vite.51
+    2300174: testa vite.52
+    2300176: testa vite.53
+    2300178: testa vite.54
+    2300180: testa vite.55
+    2300182: testa vite.56
+    2300184: testa vite.57
+    2300186: testa vite.58
+    2300188: testa vite.59
+    2300190: testa vite.6
+    2300192: testa vite.60
+    2300194: testa vite.61
+    2300196: testa vite.62
+    2300198: testa vite.63
+    2300200: testa vite.64
+    2300202: testa vite.65
+    2300204: testa vite.66
+    2300206: testa vite.67
+    2300208: testa vite.68
+    2300210: testa vite.69
+    2300212: testa vite.7
+    2300214: testa vite.70
+    2300216: testa vite.71
+    2300218: testa vite.72
+    2300220: testa vite.8
+    2300222: testa vite.9
+    3300000: gamba 1
+    3300002: gamba 1.2
+    3300004: gamba 1.3
+    3300006: gamba 1.4
+    3300008: gamba 2
+    3300010: gamba 2.2
+    3300012: gamba 2.3
+    3300014: gamba 2.4
+    3300016: gamba 3
+    3300018: gamba 3.2
+    3300020: gamba 3.3
+    3300022: gamba 3.4
+    3300024: piano
+    3300026: piano.2
+    3300028: piano.3
+    3300030: piano.4
+    3300032: piastra
+    3300034: piastra 1
+    3300036: piastra 1.2
+    3300038: piastra 1.3
+    3300040: piastra 1.4
+    3300042: piastra 2
+    3300044: piastra 2.2
+    3300046: piastra 2.3
+    3300048: piastra 2.4
+    3300050: piastra 3
+    3300052: piastra 3.2
+    3300054: piastra 3.3
+    3300056: piastra 3.4
+    3300058: piastra 4
+    3300060: piastra 4.2
+    3300062: piastra 4.3
+    3300064: piastra 4.4
+    3300066: piastra 5
+    3300068: piastra 5.2
+    3300070: piastra 5.3
+    3300072: piastra 5.4
+    3300074: piastra.2
+    3300076: piastra.3
+    3300078: piastra.4
+    3300080: testa vite
+    3300082: testa vite.10
+    3300084: testa vite.11
+    3300086: testa vite.12
+    3300088: testa vite.13
+    3300090: testa vite.14
+    3300092: testa vite.15
+    3300094: testa vite.16
+    3300096: testa vite.17
+    3300098: testa vite.18
+    3300100: testa vite.19
+    3300102: testa vite.2
+    3300104: testa vite.20
+    3300106: testa vite.21
+    3300108: testa vite.22
+    3300110: testa vite.23
+    3300112: testa vite.24
+    3300114: testa vite.25
+    3300116: testa vite.26
+    3300118: testa vite.27
+    3300120: testa vite.28
+    3300122: testa vite.29
+    3300124: testa vite.3
+    3300126: testa vite.30
+    3300128: testa vite.31
+    3300130: testa vite.32
+    3300132: testa vite.33
+    3300134: testa vite.34
+    3300136: testa vite.35
+    3300138: testa vite.36
+    3300140: testa vite.37
+    3300142: testa vite.38
+    3300144: testa vite.39
+    3300146: testa vite.4
+    3300148: testa vite.40
+    3300150: testa vite.41
+    3300152: testa vite.42
+    3300154: testa vite.43
+    3300156: testa vite.44
+    3300158: testa vite.45
+    3300160: testa vite.46
+    3300162: testa vite.47
+    3300164: testa vite.48
+    3300166: testa vite.49
+    3300168: testa vite.5
+    3300170: testa vite.50
+    3300172: testa vite.51
+    3300174: testa vite.52
+    3300176: testa vite.53
+    3300178: testa vite.54
+    3300180: testa vite.55
+    3300182: testa vite.56
+    3300184: testa vite.57
+    3300186: testa vite.58
+    3300188: testa vite.59
+    3300190: testa vite.6
+    3300192: testa vite.60
+    3300194: testa vite.61
+    3300196: testa vite.62
+    3300198: testa vite.63
+    3300200: testa vite.64
+    3300202: testa vite.65
+    3300204: testa vite.66
+    3300206: testa vite.67
+    3300208: testa vite.68
+    3300210: testa vite.69
+    3300212: testa vite.7
+    3300214: testa vite.70
+    3300216: testa vite.71
+    3300218: testa vite.72
+    3300220: testa vite.8
+    3300222: testa vite.9
+    4300000: piano
+    4300002: gamba 1
+    4300004: gamba 2
+    4300006: gamba 3
+    4300008: piastra 1
+    4300010: testa vite
+    4300012: testa vite.2
+    4300014: testa vite.3
+    4300016: piastra 2
+    4300018: testa vite.4
+    4300020: testa vite.5
+    4300022: testa vite.6
+    4300024: piastra 3
+    4300026: testa vite.7
+    4300028: testa vite.8
+    4300030: testa vite.9
+    4300032: piastra 4
+    4300034: testa vite.10
+    4300036: testa vite.11
+    4300038: testa vite.12
+    4300040: piastra 5
+    4300042: testa vite.13
+    4300044: testa vite.14
+    4300046: testa vite.15
+    4300048: piastra
+    4300050: testa vite.16
+    4300052: testa vite.17
+    4300054: testa vite.18
+    4300056: piano.2
+    4300058: gamba 1.2
+    4300060: gamba 2.2
+    4300062: gamba 3.2
+    4300064: piastra 1.2
+    4300066: testa vite.19
+    4300068: testa vite.20
+    4300070: testa vite.21
+    4300072: piastra 2.2
+    4300074: testa vite.22
+    4300076: testa vite.23
+    4300078: testa vite.24
+    4300080: piastra 3.2
+    4300082: testa vite.25
+    4300084: testa vite.26
+    4300086: testa vite.27
+    4300088: piastra 4.2
+    4300090: testa vite.28
+    4300092: testa vite.29
+    4300094: testa vite.30
+    4300096: piastra 5.2
+    4300098: testa vite.31
+    4300100: testa vite.32
+    4300102: testa vite.33
+    4300104: piastra.2
+    4300106: testa vite.34
+    4300108: testa vite.35
+    4300110: testa vite.36
+    4300112: piano.3
+    4300114: gamba 1.3
+    4300116: gamba 2.3
+    4300118: gamba 3.3
+    4300120: piastra 1.3
+    4300122: testa vite.37
+    4300124: testa vite.38
+    4300126: testa vite.39
+    4300128: piastra 2.3
+    4300130: testa vite.40
+    4300132: testa vite.41
+    4300134: testa vite.42
+    4300136: piastra 3.3
+    4300138: testa vite.43
+    4300140: testa vite.44
+    4300142: testa vite.45
+    4300144: piastra 4.3
+    4300146: testa vite.46
+    4300148: testa vite.47
+    4300150: testa vite.48
+    4300152: piastra 5.3
+    4300154: testa vite.49
+    4300156: testa vite.50
+    4300158: testa vite.51
+    4300160: piastra.3
+    4300162: testa vite.52
+    4300164: testa vite.53
+    4300166: testa vite.54
+    4300168: piano.4
+    4300170: gamba 1.4
+    4300172: gamba 2.4
+    4300174: gamba 3.4
+    4300176: piastra 1.4
+    4300178: testa vite.55
+    4300180: testa vite.56
+    4300182: testa vite.57
+    4300184: piastra 2.4
+    4300186: testa vite.58
+    4300188: testa vite.59
+    4300190: testa vite.60
+    4300192: piastra 3.4
+    4300194: testa vite.61
+    4300196: testa vite.62
+    4300198: testa vite.63
+    4300200: piastra 4.4
+    4300202: testa vite.64
+    4300204: testa vite.65
+    4300206: testa vite.66
+    4300208: piastra 5.4
+    4300210: testa vite.67
+    4300212: testa vite.68
+    4300214: testa vite.69
+    4300216: piastra.4
+    4300218: testa vite.70
+    4300220: testa vite.71
+    4300222: testa vite.72
+    7400000: C4D Animation Take
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: f360d515bff2ca048b3ff75fade5b7ac, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

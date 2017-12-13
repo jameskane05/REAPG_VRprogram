@@ -1,0 +1,601 @@
+fileFormatVersion: 2
+guid: e7831e945b39399409cb4ba520b01270
+timeCreated: 1510679665
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Array
+    100002: Array.2
+    100004: Array.3
+    100006: B-BOARD
+    100008: BRICK
+    100010: Camera
+    100012: Camera.Target.1
+    100014: Cap
+    100016: Cap.2
+    100018: Cap.3
+    100020: Cap.4
+    100022: Cap.5
+    100024: Cap.6
+    100026: Cap.7
+    100028: Cap.8
+    100030: Cube
+    100032: Cube.2
+    100034: Cube.3
+    100036: Cube.4
+    100038: Cube.5
+    100040: Cylinder
+    100042: Cylinder.10
+    100044: Cylinder.11
+    100046: Cylinder.12
+    100048: Cylinder.13
+    100050: Cylinder.14
+    100052: Cylinder.15
+    100054: Cylinder.2
+    100056: Cylinder.3
+    100058: Cylinder.4
+    100060: Cylinder.5
+    100062: Cylinder.6
+    100064: Cylinder.7
+    100066: Cylinder.8
+    100068: Cylinder.9
+    100070: Extrude NURBS
+    100072: Extrude NURBS.2
+    100074: Extrude NURBS.3
+    100076: Extrude NURBS.4
+    100078: Extrude NURBS.5
+    100080: Extrude NURBS.6
+    100082: FIREPLACE
+    100084: //RootNode
+    100086: FLOOR
+    100088: HyperNURBS
+    100090: INVIRO
+    100092: Light
+    100094: Light.2
+    100096: Light.3
+    100098: Light.4
+    100100: Light.5
+    100102: Light.6
+    100104: Light.7
+    100106: Loft NURBS
+    100108: MARBLE
+    100110: Null Object
+    100112: Null Object.1
+    100114: Null Object.2
+    100116: Null Object.3
+    100118: Null Object.4
+    100120: Oil Tank
+    100122: Oil Tank.2
+    100124: OUTLET
+    100126: phil-screw
+    100128: phil-screw.2
+    100130: Plane
+    100132: Plane.2
+    100134: Plane.3
+    100136: PLATE
+    100138: pumpkinhead3d.com
+    100140: RUG
+    100142: Sphere.1
+    100144: STAND
+    100146: Sweep NURBS
+    100148: Sweep NURBS.1
+    100150: Sweep NURBS.1.2
+    100152: Sweep NURBS.1.3
+    100154: Sweep NURBS.10
+    100156: Sweep NURBS.11
+    100158: Sweep NURBS.12
+    100160: Sweep NURBS.13
+    100162: Sweep NURBS.2
+    100164: Sweep NURBS.2.2
+    100166: Sweep NURBS.2.3
+    100168: Sweep NURBS.3
+    100170: Sweep NURBS.3.2
+    100172: Sweep NURBS.3.3
+    100174: Sweep NURBS.4
+    100176: Sweep NURBS.4.2
+    100178: Sweep NURBS.4.3
+    100180: Sweep NURBS.5
+    100182: Sweep NURBS.6
+    100184: Sweep NURBS.7
+    100186: Sweep NURBS.8
+    100188: Sweep NURBS.9
+    100190: VAZ
+    100192: VAZ-B
+    100194: WALL
+    400000: Array
+    400002: Array.2
+    400004: Array.3
+    400006: B-BOARD
+    400008: BRICK
+    400010: Camera
+    400012: Camera.Target.1
+    400014: Cap
+    400016: Cap.2
+    400018: Cap.3
+    400020: Cap.4
+    400022: Cap.5
+    400024: Cap.6
+    400026: Cap.7
+    400028: Cap.8
+    400030: Cube
+    400032: Cube.2
+    400034: Cube.3
+    400036: Cube.4
+    400038: Cube.5
+    400040: Cylinder
+    400042: Cylinder.10
+    400044: Cylinder.11
+    400046: Cylinder.12
+    400048: Cylinder.13
+    400050: Cylinder.14
+    400052: Cylinder.15
+    400054: Cylinder.2
+    400056: Cylinder.3
+    400058: Cylinder.4
+    400060: Cylinder.5
+    400062: Cylinder.6
+    400064: Cylinder.7
+    400066: Cylinder.8
+    400068: Cylinder.9
+    400070: Extrude NURBS
+    400072: Extrude NURBS.2
+    400074: Extrude NURBS.3
+    400076: Extrude NURBS.4
+    400078: Extrude NURBS.5
+    400080: Extrude NURBS.6
+    400082: FIREPLACE
+    400084: //RootNode
+    400086: FLOOR
+    400088: HyperNURBS
+    400090: INVIRO
+    400092: Light
+    400094: Light.2
+    400096: Light.3
+    400098: Light.4
+    400100: Light.5
+    400102: Light.6
+    400104: Light.7
+    400106: Loft NURBS
+    400108: MARBLE
+    400110: Null Object
+    400112: Null Object.1
+    400114: Null Object.2
+    400116: Null Object.3
+    400118: Null Object.4
+    400120: Oil Tank
+    400122: Oil Tank.2
+    400124: OUTLET
+    400126: phil-screw
+    400128: phil-screw.2
+    400130: Plane
+    400132: Plane.2
+    400134: Plane.3
+    400136: PLATE
+    400138: pumpkinhead3d.com
+    400140: RUG
+    400142: Sphere.1
+    400144: STAND
+    400146: Sweep NURBS
+    400148: Sweep NURBS.1
+    400150: Sweep NURBS.1.2
+    400152: Sweep NURBS.1.3
+    400154: Sweep NURBS.10
+    400156: Sweep NURBS.11
+    400158: Sweep NURBS.12
+    400160: Sweep NURBS.13
+    400162: Sweep NURBS.2
+    400164: Sweep NURBS.2.2
+    400166: Sweep NURBS.2.3
+    400168: Sweep NURBS.3
+    400170: Sweep NURBS.3.2
+    400172: Sweep NURBS.3.3
+    400174: Sweep NURBS.4
+    400176: Sweep NURBS.4.2
+    400178: Sweep NURBS.4.3
+    400180: Sweep NURBS.5
+    400182: Sweep NURBS.6
+    400184: Sweep NURBS.7
+    400186: Sweep NURBS.8
+    400188: Sweep NURBS.9
+    400190: VAZ
+    400192: VAZ-B
+    400194: WALL
+    2000000: Camera
+    2300000: B-BOARD
+    2300002: BRICK
+    2300004: Cap
+    2300006: Cap.2
+    2300008: Cap.3
+    2300010: Cap.4
+    2300012: Cap.5
+    2300014: Cap.6
+    2300016: Cap.7
+    2300018: Cap.8
+    2300020: Cube
+    2300022: Cube.2
+    2300024: Cube.3
+    2300026: Cube.4
+    2300028: Cube.5
+    2300030: Cylinder
+    2300032: Cylinder.10
+    2300034: Cylinder.11
+    2300036: Cylinder.12
+    2300038: Cylinder.13
+    2300040: Cylinder.14
+    2300042: Cylinder.15
+    2300044: Cylinder.2
+    2300046: Cylinder.3
+    2300048: Cylinder.4
+    2300050: Cylinder.5
+    2300052: Cylinder.6
+    2300054: Cylinder.7
+    2300056: Cylinder.8
+    2300058: Cylinder.9
+    2300060: Extrude NURBS
+    2300062: Extrude NURBS.2
+    2300064: Extrude NURBS.3
+    2300066: Extrude NURBS.4
+    2300068: Extrude NURBS.5
+    2300070: Extrude NURBS.6
+    2300072: FLOOR
+    2300074: Loft NURBS
+    2300076: MARBLE
+    2300078: Oil Tank
+    2300080: Oil Tank.2
+    2300082: phil-screw
+    2300084: phil-screw.2
+    2300086: Plane
+    2300088: Plane.2
+    2300090: Plane.3
+    2300092: PLATE
+    2300094: RUG
+    2300096: Sphere.1
+    2300098: Sweep NURBS
+    2300100: Sweep NURBS.1
+    2300102: Sweep NURBS.1.2
+    2300104: Sweep NURBS.1.3
+    2300106: Sweep NURBS.10
+    2300108: Sweep NURBS.11
+    2300110: Sweep NURBS.12
+    2300112: Sweep NURBS.13
+    2300114: Sweep NURBS.2
+    2300116: Sweep NURBS.2.2
+    2300118: Sweep NURBS.2.3
+    2300120: Sweep NURBS.3
+    2300122: Sweep NURBS.3.2
+    2300124: Sweep NURBS.3.3
+    2300126: Sweep NURBS.4
+    2300128: Sweep NURBS.4.2
+    2300130: Sweep NURBS.4.3
+    2300132: Sweep NURBS.5
+    2300134: Sweep NURBS.6
+    2300136: Sweep NURBS.7
+    2300138: Sweep NURBS.8
+    2300140: Sweep NURBS.9
+    2300142: VAZ
+    2300144: VAZ-B
+    2300146: WALL
+    3300000: B-BOARD
+    3300002: BRICK
+    3300004: Cap
+    3300006: Cap.2
+    3300008: Cap.3
+    3300010: Cap.4
+    3300012: Cap.5
+    3300014: Cap.6
+    3300016: Cap.7
+    3300018: Cap.8
+    3300020: Cube
+    3300022: Cube.2
+    3300024: Cube.3
+    3300026: Cube.4
+    3300028: Cube.5
+    3300030: Cylinder
+    3300032: Cylinder.10
+    3300034: Cylinder.11
+    3300036: Cylinder.12
+    3300038: Cylinder.13
+    3300040: Cylinder.14
+    3300042: Cylinder.15
+    3300044: Cylinder.2
+    3300046: Cylinder.3
+    3300048: Cylinder.4
+    3300050: Cylinder.5
+    3300052: Cylinder.6
+    3300054: Cylinder.7
+    3300056: Cylinder.8
+    3300058: Cylinder.9
+    3300060: Extrude NURBS
+    3300062: Extrude NURBS.2
+    3300064: Extrude NURBS.3
+    3300066: Extrude NURBS.4
+    3300068: Extrude NURBS.5
+    3300070: Extrude NURBS.6
+    3300072: FLOOR
+    3300074: Loft NURBS
+    3300076: MARBLE
+    3300078: Oil Tank
+    3300080: Oil Tank.2
+    3300082: phil-screw
+    3300084: phil-screw.2
+    3300086: Plane
+    3300088: Plane.2
+    3300090: Plane.3
+    3300092: PLATE
+    3300094: RUG
+    3300096: Sphere.1
+    3300098: Sweep NURBS
+    3300100: Sweep NURBS.1
+    3300102: Sweep NURBS.1.2
+    3300104: Sweep NURBS.1.3
+    3300106: Sweep NURBS.10
+    3300108: Sweep NURBS.11
+    3300110: Sweep NURBS.12
+    3300112: Sweep NURBS.13
+    3300114: Sweep NURBS.2
+    3300116: Sweep NURBS.2.2
+    3300118: Sweep NURBS.2.3
+    3300120: Sweep NURBS.3
+    3300122: Sweep NURBS.3.2
+    3300124: Sweep NURBS.3.3
+    3300126: Sweep NURBS.4
+    3300128: Sweep NURBS.4.2
+    3300130: Sweep NURBS.4.3
+    3300132: Sweep NURBS.5
+    3300134: Sweep NURBS.6
+    3300136: Sweep NURBS.7
+    3300138: Sweep NURBS.8
+    3300140: Sweep NURBS.9
+    3300142: VAZ
+    3300144: VAZ-B
+    3300146: WALL
+    4300000: Extrude NURBS
+    4300002: Sweep NURBS
+    4300004: Cylinder
+    4300006: Cylinder.2
+    4300008: Extrude NURBS.2
+    4300010: Sweep NURBS.2
+    4300012: Plane
+    4300014: PLATE
+    4300016: Extrude NURBS.3
+    4300018: Cube
+    4300020: phil-screw
+    4300022: phil-screw.2
+    4300024: Cube.2
+    4300026: Sphere.1
+    4300028: Cylinder.3
+    4300030: Cube.3
+    4300032: Cube.4
+    4300034: Loft NURBS
+    4300036: Cylinder.4
+    4300038: Cylinder.5
+    4300040: Cylinder.6
+    4300042: Sweep NURBS.3
+    4300044: Cylinder.7
+    4300046: Cylinder.8
+    4300048: Cylinder.9
+    4300050: Sweep NURBS.4
+    4300052: Cylinder.10
+    4300054: Cylinder.11
+    4300056: Cylinder.12
+    4300058: Sweep NURBS.5
+    4300060: Cylinder.13
+    4300062: Cylinder.14
+    4300064: Cylinder.15
+    4300066: Sweep NURBS.6
+    4300068: Sweep NURBS.1
+    4300070: Sweep NURBS.1.2
+    4300072: Cap
+    4300074: Sweep NURBS.2.2
+    4300076: Cap.2
+    4300078: Sweep NURBS.3.2
+    4300080: Cap.3
+    4300082: Sweep NURBS.4.2
+    4300084: Cap.4
+    4300086: Oil Tank
+    4300088: Oil Tank.2
+    4300090: Sweep NURBS.1.3
+    4300092: Cap.5
+    4300094: Sweep NURBS.2.3
+    4300096: Cap.6
+    4300098: Sweep NURBS.3.3
+    4300100: Cap.7
+    4300102: Sweep NURBS.4.3
+    4300104: Cap.8
+    4300106: Sweep NURBS.7
+    4300108: Extrude NURBS.4
+    4300110: Extrude NURBS.5
+    4300112: BRICK
+    4300114: MARBLE
+    4300116: Sweep NURBS.8
+    4300118: Sweep NURBS.9
+    4300120: Sweep NURBS.10
+    4300122: Cube.5
+    4300124: Sweep NURBS.11
+    4300126: Sweep NURBS.12
+    4300128: Extrude NURBS.6
+    4300130: Sweep NURBS.13
+    4300132: Plane.2
+    4300134: Plane.3
+    4300136: VAZ-B
+    4300138: VAZ
+    4300140: RUG
+    4300142: B-BOARD
+    4300144: WALL
+    4300146: FLOOR
+    10800000: Light
+    10800002: Light.2
+    10800004: Light.3
+    10800006: Light.4
+    10800008: Light.5
+    10800010: Light.6
+    10800012: Light.7
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BRICK
+    second: {fileID: 2100000, guid: ad955bcd5a0ac0f47b788191829c9b1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BRUSH
+    second: {fileID: 2100000, guid: 994afa3e882a67746a9cf2460470e24a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CubeMat
+    second: {fileID: 2100000, guid: 020d88f954ca8ee4a959806d075fca41, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Extrude NURBS.3Mat
+    second: {fileID: 2100000, guid: 4a066dec311dd524f9e2902e27c6ded5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F-BLACK
+    second: {fileID: 2100000, guid: cfbbdf5b3552cb946a307947be9a4861, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GLASS
+    second: {fileID: 2100000, guid: 590dc14ec282ef44d8da9829b84bcb62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MARBLE
+    second: {fileID: 2100000, guid: 9614a8d5e0e0c994490235a6d33af05f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat
+    second: {fileID: 2100000, guid: 542d4cadd88b3b44781576da114ba709, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PAINT
+    second: {fileID: 2100000, guid: d9d8b0f571820e74c9713cbf8f61280f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PLATEMat
+    second: {fileID: 2100000, guid: b4d8d12a9335d3644907913f1ded3d3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RUG
+    second: {fileID: 2100000, guid: 94837f610fca52a41a1a5587a7c59ebd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VAZ
+    second: {fileID: 2100000, guid: 319fa54c14f176f4390f5d4f50ef7675, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WALLMat
+    second: {fileID: 2100000, guid: e70a08190f7e2c844a38dac763ccd123, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WOOD
+    second: {fileID: 2100000, guid: d7fa4f1c55cc6a74b86567e53944e081, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: black
+    second: {fileID: 2100000, guid: abfaa2f458ad3e04aaf0c0b258992bd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phil-screw.2Mat
+    second: {fileID: 2100000, guid: 16276681e9afd364c88f5683d808752b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phil-screwMat
+    second: {fileID: 2100000, guid: 7eeff22b64157f14cb81951bab01e8a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood006
+    second: {fileID: 2100000, guid: 7bdb2087ced1ceb4188bb7298ca7f28d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
