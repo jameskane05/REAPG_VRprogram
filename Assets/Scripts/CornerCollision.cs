@@ -8,12 +8,16 @@ public class CornerCollision : MonoBehaviour {
 
     private void OnTriggerEnter(Collider other)
     {
-        Debug.Log(gameObject.transform.position);
-        MazeCtrl.cornerTransform = gameObject.transform;
-        gameObject.SetActive(false);
-        //Debug.Log(gameObject.ToString());
-        MazeCtrl.onCorner = cornerNum;
-        MazeCtrl.cornerEvent = true;
+		ExperimentSettings _expInstance = ExperimentSettings.GetInstance ();
+		if(_expInstance.MazeSettings.Rotate || _expInstance.MazeSettings.Pause){
+			Debug.Log(gameObject.transform.position);
+			MazeController.cornerTransform = gameObject.transform;
+			gameObject.SetActive(false);
+			//Debug.Log(gameObject.ToString());
+			MazeController.onCorner = cornerNum;
+			MazeController.cornerEvent = true;
+		}
+
     }
 
 

@@ -118,7 +118,7 @@ namespace UnityStandardAssets.Characters.FirstPerson
 
             if (Input.GetKey(KeyCode.E))
             {
-                SceneManager.LoadScene("Menu");
+                SceneManager.LoadScene(0);
             }
 
 
