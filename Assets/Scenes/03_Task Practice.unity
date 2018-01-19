@@ -88,7 +88,6 @@ LightmapSettings:
     m_PVRFilteringAtrousPositionSigmaDirect: 0.5
     m_PVRFilteringAtrousPositionSigmaIndirect: 2
     m_PVRFilteringAtrousPositionSigmaAO: 1
-    m_ShowResolutionOverlay: 1
   m_LightingDataAsset: {fileID: 112000080, guid: fbe87c86e8df86c4cb8a57194fc429b3,
     type: 2}
   m_UseShadowmask: 1
@@ -443,7 +442,6 @@ Camera:
   m_TargetEye: 3
   m_HDR: 1
   m_AllowMSAA: 1
-  m_AllowDynamicResolution: 0
   m_ForceIntoRT: 0
   m_OcclusionCulling: 1
   m_StereoConvergence: 10
@@ -1140,12 +1138,12 @@ Prefab:
     - target: {fileID: 224815412259432562, guid: eaae4ce4b70863042b87c49e657e1ae3,
         type: 2}
       propertyPath: m_LocalPosition.x
-      value: 448
+      value: 499
       objectReference: {fileID: 0}
     - target: {fileID: 224815412259432562, guid: eaae4ce4b70863042b87c49e657e1ae3,
         type: 2}
       propertyPath: m_LocalPosition.y
-      value: 404
+      value: 446.5
       objectReference: {fileID: 0}
     - target: {fileID: 224815412259432562, guid: eaae4ce4b70863042b87c49e657e1ae3,
         type: 2}
@@ -1391,14 +1389,15 @@ MonoBehaviour:
   - {fileID: 0}
   - {fileID: 382842058}
   - {fileID: 2068848935}
-  pauseDuration: 12
-  rotationDuration: 20
+  pauseDuration: 15
+  rotationDuration: 15
   introImgs:
   - {fileID: 21300000, guid: 02f263179f89fd74d8c8af0059ca01a7, type: 3}
   - {fileID: 21300000, guid: ab061d4515376174b89c4f64c230dda2, type: 3}
   - {fileID: 21300000, guid: 0dd8c0e79183d6f4daec243a54e7b50a, type: 3}
   landmarks:
   - {fileID: 1256242744}
+  durationPerPic: 3
 --- !u!4 &1461536412
 Transform:
   m_ObjectHideFlags: 0

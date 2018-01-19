@@ -88,7 +88,6 @@ LightmapSettings:
     m_PVRFilteringAtrousPositionSigmaDirect: 0.5
     m_PVRFilteringAtrousPositionSigmaIndirect: 2
     m_PVRFilteringAtrousPositionSigmaAO: 1
-    m_ShowResolutionOverlay: 1
   m_LightingDataAsset: {fileID: 112000716, guid: af9b002d42f2da94d87deb23194859b7,
     type: 2}
   m_UseShadowmask: 1
@@ -2165,9 +2164,9 @@ MeshCollider:
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
-  serializedVersion: 3
+  serializedVersion: 2
   m_Convex: 0
-  m_CookingOptions: 14
+  m_InflateMesh: 0
   m_SkinWidth: 0.01
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!33 &349329663
@@ -8520,12 +8519,12 @@ Prefab:
     - target: {fileID: 224815412259432562, guid: eaae4ce4b70863042b87c49e657e1ae3,
         type: 2}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: 499
       objectReference: {fileID: 0}
     - target: {fileID: 224815412259432562, guid: eaae4ce4b70863042b87c49e657e1ae3,
         type: 2}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: 446.5
       objectReference: {fileID: 0}
     - target: {fileID: 224815412259432562, guid: eaae4ce4b70863042b87c49e657e1ae3,
         type: 2}
@@ -10861,9 +10860,9 @@ MeshCollider:
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
-  serializedVersion: 3
+  serializedVersion: 2
   m_Convex: 0
-  m_CookingOptions: 14
+  m_InflateMesh: 0
   m_SkinWidth: 0.01
   m_Mesh: {fileID: 4300000, guid: 7d62ef1f04b3c3a4bac26954b3fa3be7, type: 3}
 --- !u!4 &1556261877
@@ -11863,8 +11862,8 @@ MonoBehaviour:
   - {fileID: 1816195204}
   - {fileID: 1820423932}
   - {fileID: 108255966}
-  pauseDuration: 8
-  rotationDuration: 20
+  pauseDuration: 15
+  rotationDuration: 15
   introImgs:
   - {fileID: 21300000, guid: 66986c3dd3027c0448fd42f5946b0b5d, type: 3}
   - {fileID: 21300000, guid: 097c350300461d440869595e64fe1c85, type: 3}
@@ -11876,6 +11875,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: ede7d918e02bff0429c89d75034ab3bc, type: 3}
   - {fileID: 21300000, guid: 26bd7f8d143b40144be2387fc72eef98, type: 3}
   landmarks: []
+  durationPerPic: 3
 --- !u!1001 &1666492538
 Prefab:
   m_ObjectHideFlags: 0
