@@ -48,7 +48,7 @@ public class ExperimentSettings {
         if (ExperimentSettings.IsStudy() && !ExperimentSettings.IsPractice()) _instance.MazeSettings.TrialName += "_LearnT";
 
         else if (!ExperimentSettings.IsStudy() && !ExperimentSettings.IsPractice()) {
-            if (_instance.MazeSettings.Reverse) _instance.MazeSettings.TrialName += "_FWDT";
+            if (!_instance.MazeSettings.Reverse) _instance.MazeSettings.TrialName += "_FWDT";
             else _instance.MazeSettings.TrialName += "_REVT";
         }
 
